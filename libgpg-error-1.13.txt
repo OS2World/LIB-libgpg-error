@@ -1,0 +1,34 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: libgpg-error-1.13.zip
+       Short Description: libgpg-error v1.13
+        Long Description: libgpg-error v1.13
+This is a library that defines common error values for all GnuPG
+components.  Among these are GPG, GPGSM, GPGME, GPG-Agent, libgcrypt,
+Libksba, DirMngr, Pinentry, SmartCard Daemon and more.
+
+v1.10-r2 : Fixed the problem that gpg-error.dll cannot be loaded because
+           it has longer name than 8 characters. Now it is truncated to
+           gpg-erro.dll. Reported by Elbert Pol.
+
+      Proposed directory
+           for placement: /pub/os2/dev/util/
+
+               Your name: KO Myung-Hun
+           Email address: komh@chollian.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 
+ Additional requirements: kLIBC v0.6.5
+
+                Replaces: (none)
+
+
+
